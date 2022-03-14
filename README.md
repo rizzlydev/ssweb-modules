@@ -22,7 +22,7 @@ If there are bugs, please create [Issues](https://github.com/Caliph91/ssweb-api/
 ```js
 const api = require("ssweb-api")
 ```
-})
+
 
 # Docs
 
