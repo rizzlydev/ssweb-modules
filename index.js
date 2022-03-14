@@ -7,7 +7,7 @@ desktop
 };
 author = author || {
 name: 'Caliph Dev.',
-email: 'admin@caliph.my.id
+email: 'admin@caliph.my.id'
 };
 
 module.exports = { author, ...type }
