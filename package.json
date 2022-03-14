@@ -1,0 +1,40 @@
+{
+  "name": "ssweb-api",
+  "version": "0.0.9",
+  "description": "Package ssweb API with puppeteer and google chrome",
+  "depecrated": false,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "screenshot",
+    "screenshotweb",
+    "ssweb",
+    "puppeteer",
+    "browser",
+    "ssweb-api"
+  ],
+  "homepage": "https://ssapi.caliph.my.id",
+  "author": {
+    "name": "Caliph91",
+    "email": "admin@caliph.my.id"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliph91/ssweb-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caliph91/ssweb-api/issues"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "file-type": "^16.5.3",
+    "form-data": "^3.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.4.0"
+  }
+}
