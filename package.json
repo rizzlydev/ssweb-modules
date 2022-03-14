@@ -1,6 +1,6 @@
 {
   "name": "ssweb-api",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Package ssweb API with puppeteer and google chrome",
   "depecrated": false,
   "main": "index.js",
