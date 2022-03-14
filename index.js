@@ -1,4 +1,4 @@
-const handphone = require("./lb/sshp");
+const handphone = require("./lib/sshp");
 const desktop = require("./lib/ssweb");
 let author = require("./package.json").author || {};
 const type = {
