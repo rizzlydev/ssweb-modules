@@ -39,7 +39,11 @@ console.log(result)
 
 ### Result JSON
 ```js
-{}
+{
+  status: 200,
+  creator: 'Caliph',
+  result: 'https://uploader.caliph.my.id/file/1TPWtb5XqO.png'
+}
 ```
 
 ## Ssweb Desktop (Full Page)
@@ -55,7 +59,11 @@ console.log(result)
 
 ### Result JSON
 ```js
-{}
+{
+  status: 200,
+  creator: 'Caliph',
+  result: 'https://uploader.caliph.my.id/file/KgDwrs8WHh.png'
+}
 ```
 
 ## Ssweb Handphone 
@@ -71,7 +79,11 @@ console.log(result)
 
 ### Result JSON
 ```js
-{}
+{
+  status: 200,
+  creator: 'Caliph',
+  result: 'https://uploader.caliph.my.id/file/scd2djBxkG.png'
+}
 ```
 
 ## Ssweb Handphone (Full Page)
@@ -87,7 +99,11 @@ console.log(result)
 
 ### Result JSON
 ```js
-{}
+{
+  status: 200,
+  creator: 'Caliph',
+  result: 'https://uploader.caliph.my.id/file/wxP42avOdq.png'
+}
 ```
 
 
