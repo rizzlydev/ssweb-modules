@@ -31,7 +31,7 @@ const api = require("ssweb-api")
 (async () => {
 var result = await api.desktop({ url: 'https://google.co.id' })
 console.log(result)
-})
+})()
 ```
 
 ### Result 
@@ -51,7 +51,7 @@ console.log(result)
 (async () => {
 var result = await api.desktop({ url: 'https://google.co.id/search?q=Caliph%20Rest%20Api', fullpage: true })
 console.log(result)
-})
+})()
 ```
 
 ### Result 
@@ -71,7 +71,7 @@ console.log(result)
 (async () => {
 var result = await api.handphone({ url: 'https://google.co.id' })
 console.log(result)
-})
+})()
 ```
 
 ### Result 
@@ -91,7 +91,7 @@ console.log(result)
 (async () => {
 var result = await api.handphone({ url: 'https://google.co.id/search?q=Caliph%20Rest%20Api', fullpage: true })
 console.log(result)
-})
+})()
 ```
 
 ### Result 
