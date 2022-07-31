@@ -69,40 +69,40 @@ console.log(result)
 ## Ssweb Handphone 
 ```js
 (async () => {
-var result = await api.handphone({ url: 'https://google.co.id' })
+var result = await api.handphone({ url: 'https://downloader.rizfurr.ml' })
 console.log(result)
 })()
 ```
 
 ### Result 
-<img src="https://telegra.ph/file/517b8219ca53433c73b40.png"></img>
+<img src="https://file.rizfurr.ml/file/kXQPfzrhAnAdgYSqdkUZ.png"></img>
 
 ### Result JSON
 ```js
 {
   status: 200,
-  creator: 'Caliph',
-  result: 'https://uploader.caliph.my.id/file/scd2djBxkG.png'
+  creator: 'RizFurr',
+  result: 'https://file.rizfurr.ml/file/kXQPfzrhAnAdgYSqdkUZ.png'
 }
 ```
 
 ## Ssweb Handphone (Full Page)
 ```js
 (async () => {
-var result = await api.handphone({ url: 'https://google.co.id/search?q=Caliph%20Rest%20Api', fullpage: true })
+var result = await api.handphone({ url: 'https://downloader.rizfurr.ml', fullpage: true })
 console.log(result)
 })()
 ```
 
 ### Result 
-<img src="https://uploader.caliph.my.id/file/GSXWUwB3nJ.png"></img>
+<img src="https://file.rizfurr.ml/file/AcVRzJJkxWewNoFnYfGf.png"></img>
 
 ### Result JSON
 ```js
 {
   status: 200,
-  creator: 'Caliph',
-  result: 'https://uploader.caliph.my.id/file/wxP42avOdq.png'
+  creator: 'RizFurr',
+  result: 'https://file.rizfurr.ml/file/AcVRzJJkxWewNoFnYfGf.png'
 }
 ```
 
