@@ -3,16 +3,16 @@
 
 # Note
 ID</br>
-Jika Ada Bug, Silahkan Buat [Issues](https://github.com/Caliph91/ssweb-api/issues/new)
+Jika Ada Bug, Silahkan Buat [Issues](https://github.com/rizzydev81/ssweb-api/issues/new)
 
 EN</br>
-If there are bugs, please create [Issues](https://github.com/Caliph91/ssweb-api/issues/new)
+If there are bugs, please create [Issues](https://github.com/rizzydev81/ssweb-api/issues/new)
 
 
 # Installation
 
 ## Latest
-`npm i github:caliph91/ssweb-api`
+`npm i github:rizzydev81/ssweb-api`
 
 ## Npm 
 `npm i ssweb-api`
