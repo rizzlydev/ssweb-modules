@@ -18,17 +18,17 @@
     "browser",
     "ssweb-api"
   ],
-  "homepage": "https://ssapi.caliph.my.id",
+  "homepage": "https://modules.ssweb.rizfurr.ml",
   "author": {
-    "name": "Caliph91",
-    "email": "admin@caliph.my.id"
+    "name": "RizFurr",
+    "email": "admin@rizfurr.ml"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliph91/ssweb-api.git"
+    "url": "git+https://github.com/rizzydev81/ssweb-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/caliph91/ssweb-api/issues"
+    "url": "https://github.com/rizzydev81/ssweb-modules/issues"
   },
   "dependencies": {
     "assert": "^2.0.0",
