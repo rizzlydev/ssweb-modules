@@ -94,13 +94,18 @@ console.log(result)
 })()
 ```
 
+### Result 
+
+<img src="https://file.rizfurr.ml/file/mpcgKzMdAUtuCOQFsTMg.png"></img>
+
+
 
 ### Result JSON
 ```js
 {
   status: 200,
   creator: 'RizFurr',
-  result: 'https://file.rizfurr.ml/file/AcVRzJJkxWewNoFnYfGf.png'
+  result: 'https://file.rizfurr.ml/file/mpcgKzMdAUtuCOQFsTMg.png'
 }
 ```
 
