@@ -1,4 +1,4 @@
-# ssweb-api
+# ssweb-modules
 `Package ssweb API with puppeteer and google chrome`
 
 # Note
@@ -20,7 +20,7 @@ If there are bugs, please create [Issues](https://github.com/rizzydev81/ssweb-mo
 
 # Require
 ```js
-const api = require("ssweb-api")
+const api = require("ssweb-modules")
 ```
 
 
