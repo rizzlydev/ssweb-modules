@@ -15,7 +15,7 @@ If there are bugs, please create [Issues](https://github.com/rizzydev81/ssweb-mo
 `npm i github:rizzydev81/ssweb-modules`
 
 ## Npm 
-`npm i ssweb-api`
+`npm i ssweb-modules`
 
 
 # Require
