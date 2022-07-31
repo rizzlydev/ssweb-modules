@@ -94,8 +94,6 @@ console.log(result)
 })()
 ```
 
-### Result 
-<img src="https://file.rizfurr.ml/file/AcVRzJJkxWewNoFnYfGf.png"></img>
 
 ### Result JSON
 ```js
