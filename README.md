@@ -29,20 +29,20 @@ const api = require("ssweb-api")
 ## Ssweb Desktop
 ```js
 (async () => {
-var result = await api.desktop({ url: 'https://google.co.id' })
+var result = await api.desktop({ url: 'https://downloader.rizfurr.ml' })
 console.log(result)
 })()
 ```
 
 ### Result 
-<img src="https://telegra.ph/file/221e5fd399fbc8c9696b2.png"></img>
+<img src="https://file.rizfurr.ml/file/zokljyltIsozlonCRLHi.png"></img>
 
 ### Result JSON
 ```js
 {
   status: 200,
-  creator: 'Caliph',
-  result: 'https://uploader.caliph.my.id/file/1TPWtb5XqO.png'
+  creator: 'RizFurr',
+  result: 'https://file.rizfurr.ml/file/zokljyltIsozlonCRLHi.png'
 }
 ```
 
