@@ -49,20 +49,20 @@ console.log(result)
 ## Ssweb Desktop (Full Page)
 ```js
 (async () => {
-var result = await api.desktop({ url: 'https://google.co.id/search?q=Caliph%20Rest%20Api', fullpage: true })
+var result = await api.desktop({ url: 'https://downloader.rizfurr.ml', fullpage: true })
 console.log(result)
 })()
 ```
 
 ### Result 
-<img src="https://telegra.ph/file/a661907259df2d35ebd3c.png"></img>
+<img src="https://file.rizfurr.ml/file/ghpwNCzDoxIJEtUXocWw.png"></img>
 
 ### Result JSON
 ```js
 {
   status: 200,
-  creator: 'Caliph',
-  result: 'https://uploader.caliph.my.id/file/KgDwrs8WHh.png'
+  creator: 'RizFurr',
+  result: 'https://file.rizfurr.ml/file/ghpwNCzDoxIJEtUXocWw.png'
 }
 ```
 
