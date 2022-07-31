@@ -1,5 +1,5 @@
 {
-  "name": "ssweb-api",
+  "name": "ssweb-modules",
   "version": "0.1.0",
   "description": "Package ssweb API with puppeteer and google chrome",
   "depecrated": false,
